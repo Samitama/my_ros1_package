@@ -1,0 +1,8 @@
+prefix=/home/sami/projects/src/my_ros_noetic/build/devel
+
+Name: my_ros_noetic
+Description: Description of my_ros_noetic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

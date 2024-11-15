@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sami/projects/src/my_ros_noetic/build/devel/setup.sh
